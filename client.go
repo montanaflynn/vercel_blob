@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	BLOB_API_VERSION = "4"
+	BLOB_API_VERSION = "6"
 	DEFAULT_BASE_URL = "https://blob.vercel-storage.com"
 )
 
